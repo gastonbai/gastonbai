@@ -1,6 +1,6 @@
-Header 
+![Header](https://github.com/gastonbai/gastonbai/blob/main/assets/header.png)
 
-About me 
+##wdqwdqd
 
 languages and tools
 
