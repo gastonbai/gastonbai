@@ -89,3 +89,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" title="dart" alt="dart" width="40" height="40"/>&nbsp
   <img src="https://static-00.iconduck.com/assets.00/database-sql-icon-1831x2048-iv4v6ry0.png" title="sql" alt="sql" width="40" height="40"/>&nbsp
 </div>
+
+---
+### Скоро тут появятся мои тест-кейсы/баг-репорты/чек-листы, протестированные web, mobile, desktop приложения:)
